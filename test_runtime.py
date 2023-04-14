@@ -121,3 +121,11 @@ if __name__ == '__main__':
     N_test = 1000000000
     test_init(N_test)
     test__next__(N_test)
+"""
+start benchmark
+runtime old 1000000000 time = 819.3113925457001
+runtime new 1000000000 time = 806.03808760643
+
+runtime old 1000000000 time = 525.9001922607422
+runtime new 1000000000 time = 512.4601247310638
+"""
