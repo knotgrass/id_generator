@@ -1,3 +1,5 @@
 nanoid
 snowflake-id
 sonyflake-py
+uuid6
+uuid7
